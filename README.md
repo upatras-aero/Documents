@@ -1,3 +1,13 @@
+- [ ] http://wiki.ros.org/RealSense
+- [ ] https://docs.px4.io/v1.9.0/en/complete_vehicles/intel_aero.html
+- [ ] https://ardupilot.org/copter/docs/common-intel-aero-rtf.html
+- [ ] https://ardupilot.org/copter/docs/common-intel-aero-overview.html
+- [ ] https://forums.intel.com/s/question/0D50P00004CfP2bSAF/intel-aero-platform-for-uavs-discontinuation-notice?language=en_US
+- [ ] https://forums.intel.com/s/question/0D50P00004IoA5NSAV/intel-aero-ready-to-fly-drone-spare-parts?language=en_US
+- [ ] https://www.intel.com/content/www/us/en/support/articles/000023272/drones/development-drones.html
+- [x] Neptune
+- [x] Comet Haley
+
 # Step-by-step instuctions
 
 Box Contents:
